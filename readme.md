@@ -1,6 +1,6 @@
 # Gulp Cdn
 
-Késako ?! Gulp cdn est une recette gulp vous permettant de déployer des css, scss et js dans des dossiers par projets.
+Késako ?! Gulp cdn est une recette gulp vous permettant de déployer des css, scss et js dans des dossiers par projets. Idéal pour l'utilisation d'un cdn
 
 ## Librairies utilisées
 
@@ -10,7 +10,7 @@ Késako ?! Gulp cdn est une recette gulp vous permettant de déployer des css, s
 
 ## Installation et prérequis
 
-Attention nodeJs doit être installer sur la machine
+Attention nodeJs doit être installé sur la machine
 Via un terminal,
 
 
